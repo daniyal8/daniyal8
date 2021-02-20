@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniyal Sadiq</h1>
 <h3 align="center">I am 14 year old cool Developer💻</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniyal8" alt="daniyal8" /></a> </p>
-
 - 🌱 I’m currently learning **NodeJs,MongoDB**
 
 - 📫 How to reach me **daniyalsadiq4@gmail.com**
