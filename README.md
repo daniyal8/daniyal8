@@ -31,5 +31,5 @@
 </a>
 </p>
 
-
+<p>⏰Streaks</p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daniyal8&&theme=react"  alt="daniyal8" /></p>
