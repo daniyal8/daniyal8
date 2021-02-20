@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Daniyal Sadiq</h1>
 <h3 align="center">I am 14 year old cool Developer💻</h3>
 
+- 🔭 I’m currently working on **NodeJS SignupForm Backend**
+
 - 🌱 I’m currently learning **NodeJs,MongoDB**
+
+- 👯 I’m looking to collaborate on [Gatsby](https://github.com/gatsbyjs/gatsby)
+
+- 💬 Ask me about **HTML,CSS,JavaScript,React**
 
 - 📫 How to reach me **daniyalsadiq4@gmail.com**
 
