@@ -13,10 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/daniyalsadiq9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="daniyalsadiq9" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/daniyal sadiq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="daniyal sadiq" height="30" width="40" /></a>
-<a href="https://fb.com/daniyal sadiq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="daniyal sadiq" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/developer for life" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="developer for life" height="30" width="40" /></a>
+<a href="https://twitter.com/daniyalsadiq9" target="blank"><img align="center" src="https://o.remove.bg/downloads/fc434741-6487-4399-9817-f430585da0df/logo-twitter-icon-symbol-0-removebg-preview.png" alt="daniyalsadiq9" height="40" width="45" /></a>
+<a href="https://linkedin.com/in/daniyal sadiq" target="blank"><img align="center" src="https://o.remove.bg/downloads/bb233a68-a58c-4665-8425-ffb49e7140ec/174857-removebg-preview.png" alt="daniyal sadiq" height="30" width="55" /></a>
+<a href="https://fb.com/daniyal sadiq" target="blank"><img align="center" src="https://o.remove.bg/downloads/77b7a858-0d77-4dc7-ad4a-29347fd73347/-115959794478n8gg8zgeu-removebg-preview.png" alt="daniyal sadiq" height="30" width="25" /></a>
+<a href="https://www.youtube.com/c/developer for life" target="blank"><img align="center" src="https://o.remove.bg/downloads/1a1e913e-1cd6-46b1-956f-e089d56c403f/web-189206689-removebg-preview.png" alt="developer for life" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
