@@ -8,9 +8,9 @@ development on the latest technologies. I love to make elegant and classy interf
 animations and 3d effects. I have been doing this type of work like Figma to react or xd to
 react design conversion for the past 3 years.
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/anirudhemmadi/](https://www.linkedin.com/in/daniyal-sadiq-5767161b6/))](https://www.linkedin.com/in/daniyal-sadiq-5767161b6/)
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=[https://instagram.com/kanna6501/](https://www.instagram.com/daniyalsadiq21/))](https://www.instagram.com/daniyalsadiq21/)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:daniyalsadiq4@gmail.com)](mailto:daniyalsadiq4@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Daniyal Sadiq-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/anirudhemmadi/](https://www.linkedin.com/in/daniyal-sadiq-5767161b6/))](https://www.linkedin.com/in/daniyal-sadiq-5767161b6/)
+[![Instagram Badge](https://img.shields.io/badge/-daniyalsadiq21-purple?style=flat-square&logo=instagram&logoColor=white&link=[https://instagram.com/kanna6501/](https://www.instagram.com/daniyalsadiq21/))](https://www.instagram.com/daniyalsadiq21/)
+[![Gmail Badge](https://img.shields.io/badge/-daniyalsadiq4@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:daniyalsadiq4@gmail.com)](mailto:daniyalsadiq4@gmail.com)
 
 ## ⚡ Technologies
 
