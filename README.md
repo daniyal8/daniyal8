@@ -1,7 +1,7 @@
 ## Frightened to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-Hi, I'm Daniyal Sadiq, a passionate self-taught Full-Stack Web developer and a freelance
-software engineer from Pakistan. My passion for software lies in dreaming up ideas and
+Hi, I'm Daniyal Sadiq, a passionate self-taught Website designer and a freelancer
+from Pakistan. My passion for software lies in dreaming up ideas and
 making them come true with elegant interfaces. I take great care in the experience,
 architecture, and code quality of the things I build. I have a firm grip on UI/UX
 development on the latest technologies. I love to make elegant and classy interfaces with
