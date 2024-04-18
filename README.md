@@ -1,8 +1,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-DaniyalSadiq-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/anirudhemmadi/](https://www.linkedin.com/in/daniyal-sadiq-5767161b6/))](https://www.linkedin.com/in/daniyal-sadiq-5767161b6/)
-[![Instagram Badge](https://img.shields.io/badge/-daniyalsadiq21-purple?style=flat-square&logo=instagram&logoColor=white&link=[https://instagram.com/kanna6501/](https://www.instagram.com/daniyalsadiq21/))](https://www.instagram.com/daniyalsadiq21/)
 [![Gmail Badge](https://img.shields.io/badge/-daniyalsadiq4@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:daniyalsadiq4@gmail.com)](mailto:daniyalsadiq4@gmail.com)
 
-## ⚡ Technologies
+##  Technology Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
