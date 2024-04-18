@@ -1,13 +1,3 @@
-## Frightened to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
-
-Hi, I'm Daniyal Sadiq, a passionate self-taught Website designer and a freelancer
-from Pakistan. My passion for software lies in dreaming up ideas and
-making them come true with elegant interfaces. I take great care in the experience,
-architecture, and code quality of the things I build. I have a firm grip on UI/UX
-development on the latest technologies. I love to make elegant and classy interfaces with
-animations and 3d effects. I have been doing this type of work like Figma to react or xd to
-react design conversion for the past 3 years.
-
 [![Linkedin Badge](https://img.shields.io/badge/-DaniyalSadiq-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/anirudhemmadi/](https://www.linkedin.com/in/daniyal-sadiq-5767161b6/))](https://www.linkedin.com/in/daniyal-sadiq-5767161b6/)
 [![Instagram Badge](https://img.shields.io/badge/-daniyalsadiq21-purple?style=flat-square&logo=instagram&logoColor=white&link=[https://instagram.com/kanna6501/](https://www.instagram.com/daniyalsadiq21/))](https://www.instagram.com/daniyalsadiq21/)
 [![Gmail Badge](https://img.shields.io/badge/-daniyalsadiq4@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:daniyalsadiq4@gmail.com)](mailto:daniyalsadiq4@gmail.com)
@@ -24,10 +14,3 @@ react design conversion for the past 3 years.
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=daniyal8&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniyal8&hide=TeX&layout=compact)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=daniyal8.daniyal8)
